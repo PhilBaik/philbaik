@@ -6,7 +6,7 @@ I'm an undergraduate student of Yonsei University, major in Electrical & Electro
 I am interested in power systems, power electronics, electric machines, and electric drives.  
 For the past year, I have been interested in the optimized modeling including AC motor geometry and photovoltaic power system.  
   
-I enjoy plyaing basketball and soccer, listening to music, and playing instruments. 😀  
+I enjoy playing basketball and soccer, listening to music, and playing instruments. 😀  
 I hope to develop every beautiful things. ✨  
 
 ### 💪 Skills
