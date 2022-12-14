@@ -1,13 +1,16 @@
-### Hi there 👋
+### Nice to Meet you! 👋
 
+## My name is Hyeongmeen Baik, and feel free to call me Baik or Hyeongmeen!
 
-
-I'm an undergraduate student of Yonsei University, major in Electrical & Electronic Engineering 🚀  
+I'm an undergraduate student at Yonsei University, majoring in Electrical & Electronic Engineering 🚀  
 I am interested in power systems, power electronics, electric machines, and electric drives.  
-For the past year, I have been interested in the optimized modeling including AC motor geometry and photovoltaic power system.  
-  
+For the past year, I have worked on the x-y displacement and rotary position sensor system based on linear Hall-effect sensors.
+Also, I investigated the improved performance of a photovoltaic power output forecasting model based on an Artificial Neural Network compared to conventional ML models.
+
+You can find my current works in my repositories. Feel free to navigate!
+
 I enjoy playing basketball and soccer, listening to music, and playing instruments. 😀  
-I hope to develop every beautiful things. ✨  
+I want to develop every beautiful thing. ✨  
 
 ### 💪 Skills
 #### Platforms & Languages
