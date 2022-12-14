@@ -25,7 +25,10 @@ I want to develop every beautiful thing. ✨
 
 ### Current works
 #### Magnetic Resolver using Linear Hall-Effect Sensors
-##### YG. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz
+##### Y. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz
+### abstract: 
+Precise measurement/estimation of rotary
+position is essential for the control of AC electric machines. Accurate measurement of angular position in industry applications is typically accomplished using encoder and resolvers. Variable reluctance (VR) resolvers are a well-suited option because of their inherent robustness in harsh environments; however, they occupy a substantial percentage of the total drive cost. This paper presents a novel magnetic resolver using low-cost linear Hall-effect sensors. A series of design optimization processes proposed a corresponding prototype evaluated both by finite element analysis (FEA) and subsequent experiments. Two alternative mechanical designs are discussed: shaft and in-shaft types. The proposed magnetic resolver possesses the advantages of conventional encoders including compactness and a reduced manufacturing costs, while maintaining the advantages of VR resolvers. Also, the sensor is fully compatible with conventional drives in electrical terms
    
 <!--
 **philbaek/philbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
