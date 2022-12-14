@@ -1,6 +1,6 @@
 ### Nice to Meet you! 👋
 
-## My name is Hyeongmeen Baik, and feel free to call me Baik or Hyeongmeen!
+#### My name is Hyeongmeen Baik, You call me Baik or Hyeongmeen!
 
 I'm an undergraduate student at Yonsei University, majoring in Electrical & Electronic Engineering 🚀  
 I am interested in power systems, power electronics, electric machines, and electric drives.  
@@ -23,6 +23,8 @@ I want to develop every beautiful thing. ✨
   <img src="https://img.shields.io/badge/Matlab-02569B?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
+### Current works
+#### YG. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz, Magnetic Resolver using Linear Hall-Effect Sensors
    
 <!--
 **philbaek/philbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
