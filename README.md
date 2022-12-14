@@ -24,7 +24,8 @@ I want to develop every beautiful thing. ✨
 </p>
 
 ### Current works
-#### YG. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz, Magnetic Resolver using Linear Hall-Effect Sensors
+#### Magnetic Resolver using Linear Hall-Effect Sensors
+##### YG. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz
    
 <!--
 **philbaek/philbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
