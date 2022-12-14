@@ -34,6 +34,17 @@ A series of design optimization processes proposed a corresponding prototype eva
 Two alternative mechanical designs are discussed: shaft and in-shaft types. 
 The proposed magnetic resolver possesses the advantages of conventional encoders including compactness and a reduced manufacturing costs, while maintaining the advantages of VR resolvers. Also, the sensor is fully compatible with conventional drives in electrical terms
    
+#### H. Baik, Y. Kang, D. Fernandez, "Hall sensor based Transnational and Rotary Position Sensing System"
+This paper presents a new methodology to determine both rotary and translational positions required for a mag- netic levitation system and robot joint. 
+Permanent magnets are mounted on the moving part while the low-cost hall-effect sensors are measuring radial direction magnetic flux on the stationary part. 
+Hall sensors are strategically placed to enable use of differ- ential information. 
+The radial flux are post-processed for position estimation without filter; 
+only addition and multiplication opera- tions are required. Vertical and horizontal position displacement induced zero-sequences from Clark’ transformation are used; differential information enables translational and rotary position estimation. 
+The manufactured sensor’s rotary position range is 0 to 2π and the translation position range is within 1mm in both x- and y-axes from the center position. 
+The proposed sensing system is a low-cost, compact in size.
+   
+
+
 <!--
 **philbaek/philbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
