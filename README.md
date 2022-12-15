@@ -1,6 +1,7 @@
 ### Nice to Meet you! 👋
 
 #### My name is Hyeongmeen Baik, You can call me Baik or Hyeongmeen. Also Philip is fine! 
+#### [You could check my CV in this link!] (https://github.com/philbaek/philbaek/blob/main/CV_Hyeongmeen_Baik.pdf)
 
 I'm an undergraduate student at Yonsei University, majoring in Electrical & Electronic Engineering 🚀  
 I am interested in power systems, power electronics, electric machines, and electric drives.  
