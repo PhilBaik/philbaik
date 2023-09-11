@@ -3,7 +3,7 @@
 #### My name is Hyeongmeen Baik, You can call me Baik or Hyeongmeen. Also Philip is fine! 
 #### [You could check my CV in this link!] (https://github.com/philbaek/philbaek/blob/main/CV_Hyeongmeen_Baik.pdf)
 
-I'm an undergraduate student at Yonsei University, majoring in Electrical & Electronic Engineering 🚀  
+I'm a PhD Graduate student at University of Wisconsin-Madison, majoring in Electrical & Electronic Engineering 🚀  
 I am interested in power systems, power electronics, electric machines, and electric drives.  
 For the past year, I have worked on the x-y displacement and rotary position sensor system based on linear Hall-effect sensors.
 Also, I investigated the improved performance of a photovoltaic power output forecasting model based on an Artificial Neural Network compared to conventional ML models.
