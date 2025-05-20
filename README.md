@@ -1,67 +1,88 @@
-### Nice to Meet you! 👋
+# Hyeongmeen Baik (Baik / Philip)
 
-#### My name is Hyeongmeen Baik, You can call me Baik or Hyeongmeen. Also Philip is fine! 
-#### [You could check my CV in this link!] (https://github.com/philbaek/philbaek/blob/main/CV_Hyeongmeen_Baik.pdf)
+**Ph.D. Candidate, Electrical & Computer Engineering**
+University of Wisconsin–Madison, WEMPEC
+📍 Madison, WI | ✉️ [hyeongmeen.baik@wisc.edu](mailto:hyeongmeen.baik@wisc.edu) 
+GitHub: [PhilBaik](https://github.com/PhilBaek) | Website: [wempec.wisc.edu](https://wempec.wisc.edu) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
 
-I'm a PhD Graduate student at University of Wisconsin-Madison, majoring in Electrical & Electronic Engineering 🚀  
-I am interested in power systems, power electronics, electric machines, and electric drives.  
-For the past year, I have worked on the x-y displacement and rotary position sensor system based on linear Hall-effect sensors.
-Also, I investigated the improved performance of a photovoltaic power output forecasting model based on an Artificial Neural Network compared to conventional ML models.
+---
 
-You can find my current works in my repositories. Feel free to navigate!
+## 🚀 About Me
 
-I enjoy playing basketball and soccer, listening to music, and playing instruments. 😀  
-I want to develop every beautiful thing. ✨  
+I’m pursuing my Ph.D. under Prof. Jinia Roy at the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC). My research focuses on advanced power electronics and sensor systems for pulsed power and electric machines.
 
-### 💪 Skills
-#### Platforms & Languages
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-02569B?style=flat-square&logo=gmail&logoColor=white"/>
-</p>
+* **Interests:** Power systems, power electronics, electric machines & drives
+* **Recent Work:**
 
-### Current works
-#### Y. Kang, D. Laborda, H. Baik, D. Fernandez, D. Regiosa, F. Briz, "Magnetic Resolver using Linear Hall-Effect Sensors"
-Precise measurement/estimation of rotary position is essential for the control of AC electric machines. 
-Accurate measurement of angular position in industry applications is typically accomplished using encoder and resolvers. 
-Variable reluctance (VR) resolvers are a well-suited option because of their inherent robustness in harsh environments; 
-however, they occupy a substantial percentage of the total drive cost. 
-This paper presents a novel magnetic resolver using low-cost linear Hall-effect sensors. 
-A series of design optimization processes proposed a corresponding prototype evaluated both by finite element analysis (FEA) and subsequent experiments. 
-Two alternative mechanical designs are discussed: shaft and in-shaft types. 
-The proposed magnetic resolver possesses the advantages of conventional encoders including compactness and a reduced manufacturing costs, while maintaining the advantages of VR resolvers. Also, the sensor is fully compatible with conventional drives in electrical terms
-   
-#### H. Baik, Y. Kang, D. Fernandez, "Hall sensor based Transnational and Rotary Position Sensing System"
-This paper presents a new methodology to determine both rotary and translational positions required for a mag- netic levitation system and robot joint. 
-Permanent magnets are mounted on the moving part while the low-cost hall-effect sensors are measuring radial direction magnetic flux on the stationary part. 
-Hall sensors are strategically placed to enable use of differ- ential information. 
-The radial flux are post-processed for position estimation without filter; 
-only addition and multiplication opera- tions are required. Vertical and horizontal position displacement induced zero-sequences from Clark’ transformation are used; differential information enables translational and rotary position estimation. 
-The manufactured sensor’s rotary position range is 0 to 2π and the translation position range is within 1mm in both x- and y-axes from the center position. 
-The proposed sensing system is a low-cost, compact in size.
-   
-#### H. Baik, S. Lee, "Short-term Photovoltaic Power Forecasting Model based on Artificial Neural Network and Meteorological Factors" (Bachelor Thesis)
-Due to climate change caused by global warming and the global direction to satisfy carbon-free, the importance of sustainable energy sources is emerging significantly. As the leading prospective candidate for sustainable electrical generation sources, photovoltaic (PV) generation is in the limelight. Many PV power plants have already been installed and used with or without grid connections. Despite its potential advantages as renewable energy, fluctuations in PV power on the grid side have a very adverse effect. Accurate prediction of PV power generation must be provided to ensure grid stability, reliability, and stable system operation. Also, the short-term PV forecasting model supports load dispatching and power system planning. Accordingly, a lot of research has been conducted to increase the reliability of the forecasted output in different approaches. This paper proposed the Artificial Neural Network (ANN) based forecasting model using meteorological data with critical methods to enhance the accuracy of existing ANN models. This paper covers methods for appropriate learning in an ANN-based learning environment, including preprocessing of input data. Moreover, this paper contains a strategy to reduce computational effort in an ANN-based learning environment by implementing the Pearson correlation coefficient (PCC) on input parameters. The model was verified through weather parameters and actual PV output data in Ulsan. This paper compares performances with existing traditional predictive models: multiple linear regression (MLR) and soft vector regression (SVR) based model.
+  * Review of Power ELectronic Solutions for Dielectric Barrier Discharge Applications (Under Review)
+  * Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources (Under Review)
+  * Advanced Solid-state Marx Generator Development (WEMPEC Annual Review 2025)
+  * Modular flat-top high-current compensators for flywheel energy storage (ECCE 2024)
 
 
-<!--
-**philbaek/philbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ph.D., Electrical & Computer Engineering**
+University of Wisconsin–Madison (WEMPEC), Madison, WI
+Aug 2023 – Expected 2028
 
+**B.S., Electrical & Electronic Engineering**
+Yonsei University, Seoul, Korea
+Mar 2017 – Feb 2023
+• Thesis: Short-term Photovoltaic Power Forecasting Model based on ANN & Meteorological Factors
 
-   
+---
+
+## 🔬 Research Experience
+
+**University of Wisconsin–Madison (WEMPEC)**, Research Assistant
+Aug 2023 – Present
+
+* Designed modular current compensator with multi‑phase operation for pulsed-power applications (magnetic fusion)
+* Optimized magnetic pulse compression circuits & magnetic switches analytically
+* Verified series-connected power stages and fast-voltage compensator (PPB)
+
+**KoreaTech, Cheonan — Design & Control Laboratory**, Research Assistant
+Apr 2022 – Jun 2023
+
+* Developed linear Hall-effect sensor prototypes for x-y & rotary position estimation
+* Designed optimal rotor geometry via differential evolution for IPM machines
+* Evaluated dual-mode machine (generator/motor) performance for maritime applications
+
+**Yonsei University — Communication Signal Processing Lab**, Research Intern
+Jan 2022 – Mar 2022
+
+* Assessed autoencoder-based DL communication system performance
+* Analyzed OFDM modulation & BER over multi/single-path channels
+
+---
+
+## 🏫 Teaching Experience
+
+**ECE 412, UW–Madison**, Teaching Assistant
+Fall 2024
+
+* Developed active-learning modules for flipped-classroom instruction
+* Led discussions and provided support during lectures & office hours
+
+---
+
+## 📚 Publications
+
+* H. Baik & J. Roy, “Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications,” *Under review at IEEE Transactions on Power Electronics (TPEL)*
+* H. Baik & J. Roy, “Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources,” *Under review for ECCE 2025*
+* H. Baik & J. Roy, “Modular Flat-Top High-Current Compensator for Flywheel Energy Storage System in Magnetic Confinement Fusion Applications,” ECCE 2024, Phoenix, AZ, 2024. DOI: 10.1109/ECCE55643.2024.10861038
+
+---
+
+## 📜 Patents
+
+* H. Baik & Y. Kang, “Hall Sensor Based Rotor Position Estimation System and Method,” Korean Patent 10-2022-0060038
+
+---
+
+## 📫 Connect with Me
+
+Feel free to explore my repositories, reach out for collaborations, or chat about power electronics and sensor systems!
