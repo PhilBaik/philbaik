@@ -1,0 +1,138 @@
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.6in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+\textbf{\Large Hyeongmeen Baik}\\[7pt] % Name
+Department of Electrical \& Computer Engineering, University of Wisconsin - Madison, \href{https://wempec.wisc.edu/}{WEMPEC}\\
+Madison, WI | \href{mailto:hyeongmeen.baik@wisc.edu}{hyeongmeen.baik@wisc.edu} | (608) 440-1757 | \href{https://github.com/PhilBaik}{github.com/PhilBaik} | \href{https://philwebsitevercel.vercel.app/}{Phil's Workshop}
+\end{center}
+
+% Education Section
+\section*{EDUCATION}
+\noindent
+\textbf{University of Wisconsin - Madison}, Madison, Wisconsin \hfill Aug 2023 | Expected 2028\\ % University name and location
+Ph.D., Electrical \& Computer Engineering \hfill \\ % Degree and GPA
+Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC) \\
+Advisor: \textit{Prof. Jinia Roy}
+
+\noindent\\
+\textbf{Yonsei University}, Seoul, Korea \hfill Mar 2017 | Feb 2023\\ % University name and location
+B.S., Electrical \& Electronic Engineering \hfill Cumulative GPA: 4.09 / 4.3 (Class rank: 8 /333)\\ % Degree and GPA
+Thesis: Short-term Photovoltaic Power Forecasting Model, based on Artificail Neural Network and Meterological Factors\\
+Advisor: \textit{Prof. Jung-wook Park}\\
+
+% Experience Section
+\section*{RESEARCH EXPERIENCE}
+\noindent
+\textbf{WEMPEC, University of Wisconsin - Madison} \hfill Madison, WI\\ % Company name and location
+\textit{Research Assistant} (Advisor: \textit{Prof. Jinia Roy}) \hfill Aug 2023 - Ongoing
+\begin{itemize}
+    \item Developed solid-state Marx generator-based pulsed power systems, modular flat-top current compensators for magnetic confinement fusion, and power electronic solutions for dielectric barrier discharge (DBD) applications; analyzed power pulsation buffer (PPB) control for high-PAPR pulsed loads.
+    \item Applied physics-informed neural networks (PINNs), spiking neural networks (SNNs), and reinforcement learning-augmented MPC for parameter identification, fault detection, and adaptive control of power converters.
+    \item Designed GaN-based three-phase interleaved buck converter for electrochemical impedance spectroscopy (EIS) of water electrolyzers; developed multi-port extended-duty-ratio boost converter for hybrid power sources.
+    \item Developed four-quadrant double-pulse test (DPT) circuit for systematic characterization and dynamic on-resistance evaluation of monolithic bidirectional GaN switches (MBDSs).
+\end{itemize}
+
+\noindent
+\textbf{Design \& Control Laboratory, KoreaTech} \hfill Cheonan, Korea\\
+\textit{Research Assistant} (Advisor: \textit{Prof. Ye gu Kang}) \hfill Apr 2022 - Jun 2023
+\begin{itemize}
+    \item Developed linear Hall-effect sensor prototypes for x-y and rotary position estimation; designed optimal IPM rotor geometry via differential evolution; evaluated dual-mode machine (generator/motor) for maritime applications (Hyosung).
+\end{itemize}
+
+% Additional Experience or Volunteer Work
+\noindent
+\textbf{Communication Signal Processing Laboratory, Yonsei University} \hfill Seoul, Korea\\
+\textit{Research Intern} (Advisor: \textit{Prof. Chungyong Lee}) \hfill Jan 2022 – Mar 2022
+\begin{itemize}
+    \item Evaluated autoencoder-based deep learning communication system performance; analyzed OFDM modulation and BER over multi- and single-path channels.
+\end{itemize}
+
+% Teaching
+
+\section*{TEACHING EXPERIENCE}
+\noindent
+\textbf{ECE 712, University of Wisconsin - Madison} \hfill Madison, WI\\
+\textit{Teaching Assistant} (Supervisor: \textit{Prof. Jinia Roy}) \hfill Spring 2026
+\begin{itemize}
+    \item Led in-class discussions and addressed student questions during lectures and office hours.
+\end{itemize}
+
+\noindent
+\textbf{ECE 412, University of Wisconsin - Madison} \hfill Madison, WI\\
+\textit{Teaching Assistant} (Supervisor: \textit{Prof. Jinia Roy}) \hfill Fall 2024, Fall 2025, Fall 2026
+\begin{itemize}
+    \item Developed active-learning materials designed for flipped-classroom instruction.
+    \item Led in-class discussions and addressed student questions during lectures and office hours.
+\end{itemize}
+
+% Additional Experience or Volunteer Work
+
+% Honors
+\section*{HONORS AND AWARDS}
+\noindent
+Best Presentation Award, APEC 2026 (Session D31.8) \hfill Mar 2026\\
+Scholarship for Academic Excellence (Full-tuition), Yonsei University \hfill Fall-2022, Spring-2021\\
+Scholarship for Academic Excellence (Half-tuition), Yonsei University \hfill Spring-2022, Fall-2021\\
+Highest Honors (Top 1\% of department), Yonsei University \hfill Spring-2022, Fall-2020\\
+High Honors (Top 3\% of department), Yonsei University \hfill Spring-2021, Fall-2019\\
+Honors (Top 10\% of department), Yonsei University \hfill Fall-2021\\
+
+% Publications Section
+\section*{PUBLICATIONS}
+\noindent
+\textbf{Hyeongmeen Baik} and J. Roy, "Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications," \textit{IEEE Transactions on Power Electronics}, 2026.
+
+\medskip\noindent
+S. Kapse, \textbf{Hyeongmeen Baik}, and J. Roy, "Design of High-Frequency, High-Voltage Planar Transformer for Driving Dielectric Barrier Discharge Loads," \textit{2026 IEEE Applied Power Electronics Conference and Exposition (APEC)}, Session D31.8, Mar 2026.
+
+\medskip\noindent
+H. Kong, \textbf{Hyeongmeen Baik}, and J. Roy, "Double-Pulse Test Circuit for Four-Quadrant Characterization and Dynamic ON-Resistance Evaluation of Monolithic Bidirectional GaN Switches," \textit{2026 IEEE Applied Power Electronics Conference and Exposition (APEC)}, Session T22.2, Mar 2026.
+
+\medskip\noindent
+\textbf{Hyeongmeen Baik}, I. Prabhu, and J. Roy, "Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources," \textit{2025 IEEE Energy Conversion Congress and Exposition (ECCE)}, 2025, pp. 1-6.
+
+\medskip\noindent
+P. Javidi, \textbf{Hyeongmeen Baik}, and J. Roy, "A Synchronous Gate Driver System for Series-Connected SiC MOSFETs for High-Voltage Pulsed Power Supplies Based on Magnetic Pulse Compression," \textit{2025 IEEE Energy Conversion Congress and Exposition (ECCE)}, 2025, pp. 1-8.
+
+\medskip\noindent
+A. Chinnusamy, \textbf{Hyeongmeen Baik}, and J. Roy, "High Power Density Solid State Marx Generator Based Pulsed Power Driver for Nonlinear Transmission Line," \textit{2025 IEEE Energy Conversion Congress \& Exposition Asia (ECCE-Asia)}, 2025, pp. 1-6.
+
+\medskip\noindent
+\textbf{Hyeongmeen Baik} and J. Roy, "Modular Flat-Top High-Current Compensator for Flywheel Energy Storage System in Magnetic Confinement Fusion Applications," \textit{2024 IEEE Energy Conversion Congress and Exposition (ECCE)}, Phoenix, AZ, USA, 2024, pp. 7352-7358, doi: 10.1109/ECCE55643.2024.10861038.
+
+% % Patents Section (commented out)
+% \section*{PATENTS}
+% \noindent
+% \textbf{Hyeongmeen Baik}, Ye gu Kang, "Hall Sensor Based Rotor Position Estimation System and Method", Korean Patent Application No. 10-2022-0060038 (2022)\\
+
+% % Skills Section
+% \section*{SKILLS}
+% \begin{itemize}
+%     \item \textbf{Software:} MATLAB \& Simulink, Fusion360, JMAG, FEMM. % Relevant coursework
+%     \item \textbf{Circuit Design:} Simscape, PSpice, LTspice, EagleCAD, Altium, EMTP-ATP, PSIM, PLECS.
+%     \item \textbf{Programming:} Verilog, C, C++, Python, Code Composer Studio, Microchip studio. % Programming skills
+% \end{itemize}
+
+% End document
+\end{document}
