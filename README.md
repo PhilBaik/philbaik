@@ -2,12 +2,12 @@
 
 **Ph.D. Candidate, Electrical & Computer Engineering**
 University of Wisconsin–Madison, WEMPEC
-📍 Madison, WI | ✉️ [hyeongmeen.baik@wisc.edu](mailto:hyeongmeen.baik@wisc.edu)
+Madison, WI | [hyeongmeen.baik@wisc.edu](mailto:hyeongmeen.baik@wisc.edu)
 GitHub: [PhilBaik](https://github.com/PhilBaek) | Website: [Phil's Workshop](https://philwebsitevercel.vercel.app/) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm pursuing my Ph.D. under Prof. Jinia Roy at the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC). My research spans pulsed power systems, AI-driven converter control, renewable energy interfaces, and bidirectional switch characterization.
 
@@ -20,7 +20,7 @@ I'm pursuing my Ph.D. under Prof. Jinia Roy at the Wisconsin Electric Machines a
 
 ---
 
-## 🎓 Education
+## Education
 
 **Ph.D., Electrical & Computer Engineering**
 University of Wisconsin–Madison (WEMPEC), Madison, WI
@@ -33,7 +33,7 @@ Mar 2017 – Feb 2023
 
 ---
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
 * Best Presentation Award, APEC 2026 (Session D31.8)
 * Scholarship for Academic Excellence (Full-tuition), Yonsei University — Fall 2022, Spring 2021
@@ -44,7 +44,7 @@ Mar 2017 – Feb 2023
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 **University of Wisconsin–Madison (WEMPEC)**, Research Assistant
 Aug 2023 – Present
@@ -66,7 +66,7 @@ Jan 2022 – Mar 2022
 
 ---
 
-## 🏫 Teaching Experience
+## Teaching Experience
 
 **ECE 712, UW–Madison**, Teaching Assistant — Spring 2026
 **ECE 412, UW–Madison**, Teaching Assistant — Fall 2024, Fall 2025, Fall 2026
@@ -76,7 +76,7 @@ Jan 2022 – Mar 2022
 
 ---
 
-## 📚 Publications
+## Publications
 
 * H. Baik & J. Roy, "Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications," *IEEE Transactions on Power Electronics*, 2026.
 * S. Kapse, **H. Baik** & J. Roy, "Design of High-Frequency, High-Voltage Planar Transformer for Driving Dielectric Barrier Discharge Loads," *APEC 2026*, Session D31.8, Mar 2026.
@@ -88,6 +88,6 @@ Jan 2022 – Mar 2022
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 Feel free to explore my repositories, reach out for collaborations, or chat about power electronics and sensor systems!
