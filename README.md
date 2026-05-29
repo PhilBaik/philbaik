@@ -3,7 +3,7 @@
 **Ph.D. Candidate, Electrical & Computer Engineering**
 University of Wisconsin–Madison, WEMPEC
 Madison, WI | [hyeongmeen.baik@wisc.edu](mailto:hyeongmeen.baik@wisc.edu)
-GitHub: [PhilBaik](https://github.com/PhilBaek) | Website: [Phil's Workshop](https://philwebsitevercel.vercel.app/) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
+GitHub: [PhilBaik](https://github.com/PhilBaik) | Website: [Phil's Workshop](https://philwebsitevercel.vercel.app/) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
 
 ---
 
@@ -35,7 +35,7 @@ Mar 2017 – Feb 2023
 
 ## Honors & Awards
 
-* Best Presentation Award, APEC 2026 (Session D31.8)
+* Best Presentation Award, APEC 2026
 * Scholarship for Academic Excellence (Full-tuition), Yonsei University — Fall 2022, Spring 2021
 * Scholarship for Academic Excellence (Half-tuition), Yonsei University — Spring 2022, Fall 2021
 * Highest Honors (Top 1% of department), Yonsei University — Spring 2022, Fall 2020
@@ -79,6 +79,7 @@ Jan 2022 – Mar 2022
 ## Publications
 
 * H. Baik & J. Roy, "Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications," *IEEE Transactions on Power Electronics*, 2026.
+* **H. Baik**, H. Poursiami, M. Parsa & J. Roy, "Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks," *arXiv preprint arXiv:2604.15714*, 2026.
 * S. Kapse, **H. Baik** & J. Roy, "Design of High-Frequency, High-Voltage Planar Transformer for Driving Dielectric Barrier Discharge Loads," *APEC 2026*, Session D31.8, Mar 2026.
 * H. Kong, **H. Baik** & J. Roy, "Double-Pulse Test Circuit for Four-Quadrant Characterization and Dynamic ON-Resistance Evaluation of Monolithic Bidirectional GaN Switches," *APEC 2026*, Session T22.2, Mar 2026.
 * H. Baik, I. Prabhu & J. Roy, "Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources," *ECCE 2025*, pp. 1–6.
