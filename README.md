@@ -92,7 +92,7 @@ Jan 2022 – Mar 2022
 
 ## Preprints / Under Review
 
-* **H. Baik**, H. Poursiami, M. Parsa & J. Roy, "Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks," *arXiv preprint arXiv:2604.15714*, 2026.
+* **H. Baik**, H. Poursiami, M. Parsa & J. Roy, "Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks," submitted to *ICONS 2026* (under review); arXiv:2604.15714, 2026.
 
 ---
 
