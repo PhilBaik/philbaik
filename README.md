@@ -79,6 +79,8 @@ Jan 2022 – Mar 2022
 ## Publications
 
 * H. Baik & J. Roy, "Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications," *IEEE Transactions on Power Electronics*, 2026.
+* **H. Baik** & J. Roy, "EMI-Robust Physics-Informed Neural Networks for DC-DC Converter Parameter Identification," *ECCE 2026* (accepted, to appear).
+* **H. Baik**, S. Bae & J. Roy, "Modeling and Dual-Mode Control of a Pulsed Buck Flashlamp Driver," *ECCE 2026* (accepted, to appear).
 * S. Kapse, **H. Baik** & J. Roy, "Design of High-Frequency, High-Voltage Planar Transformer for Driving Dielectric Barrier Discharge Loads," *APEC 2026*, Session D31.8, Mar 2026.
 * H. Kong, **H. Baik** & J. Roy, "Double-Pulse Test Circuit for Four-Quadrant Characterization and Dynamic ON-Resistance Evaluation of Monolithic Bidirectional GaN Switches," *APEC 2026*, Session T22.2, Mar 2026.
 * H. Baik, I. Prabhu & J. Roy, "Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources," *ECCE 2025*, pp. 1–6.
