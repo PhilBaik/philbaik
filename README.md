@@ -79,13 +79,18 @@ Jan 2022 – Mar 2022
 ## Publications
 
 * H. Baik & J. Roy, "Review of Power Electronic Solutions for Dielectric Barrier Discharge Applications," *IEEE Transactions on Power Electronics*, 2026.
-* **H. Baik**, H. Poursiami, M. Parsa & J. Roy, "Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks," *arXiv preprint arXiv:2604.15714*, 2026.
 * S. Kapse, **H. Baik** & J. Roy, "Design of High-Frequency, High-Voltage Planar Transformer for Driving Dielectric Barrier Discharge Loads," *APEC 2026*, Session D31.8, Mar 2026.
 * H. Kong, **H. Baik** & J. Roy, "Double-Pulse Test Circuit for Four-Quadrant Characterization and Dynamic ON-Resistance Evaluation of Monolithic Bidirectional GaN Switches," *APEC 2026*, Session T22.2, Mar 2026.
 * H. Baik, I. Prabhu & J. Roy, "Multi-Port Extended-Duty-Ratio Boost Converter for Hybrid Power Sources," *ECCE 2025*, pp. 1–6.
 * P. Javidi, **H. Baik** & J. Roy, "A Synchronous Gate Driver System for Series-Connected SiC MOSFETs for High-Voltage Pulsed Power Supplies Based on Magnetic Pulse Compression," *ECCE 2025*, pp. 1–8.
 * A. Chinnusamy, **H. Baik** & J. Roy, "High Power Density Solid State Marx Generator Based Pulsed Power Driver for Nonlinear Transmission Line," *ECCE-Asia 2025*, pp. 1–6.
 * H. Baik & J. Roy, "Modular Flat-Top High-Current Compensator for Flywheel Energy Storage System in Magnetic Confinement Fusion Applications," *ECCE 2024*, pp. 7352–7358. DOI: 10.1109/ECCE55643.2024.10861038
+
+---
+
+## Preprints / Under Review
+
+* **H. Baik**, H. Poursiami, M. Parsa & J. Roy, "Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks," *arXiv preprint arXiv:2604.15714*, 2026.
 
 ---
 
