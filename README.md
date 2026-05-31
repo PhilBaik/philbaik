@@ -69,7 +69,7 @@ Jan 2022 – Mar 2022
 ## Teaching Experience
 
 **ECE 712, UW–Madison**, Teaching Assistant — Spring 2026
-**ECE 412, UW–Madison**, Teaching Assistant — Fall 2024, Fall 2025, Fall 2026
+**ECE 412, UW–Madison**, Teaching Assistant — Fall 2025, Fall 2026
 
 * Developed active-learning modules for flipped-classroom instruction
 * Led discussions and provided support during lectures & office hours
