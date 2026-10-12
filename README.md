@@ -3,7 +3,7 @@
 **Ph.D. Candidate, Electrical & Computer Engineering**
 University of Wisconsin–Madison, WEMPEC
 Madison, WI | [hyeongmeen.baik@wisc.edu](mailto:hyeongmeen.baik@wisc.edu)
-GitHub: [PhilBaik](https://github.com/PhilBaik) | Website: [Phil's Workshop](https://philwebsitevercel.vercel.app/) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
+GitHub: [PhilBaik](https://github.com/PhilBaik) | Website: [hyeongmeenbaik.com](https://www.hyeongmeenbaik.com/) | Overleaf: [My CV](https://www.overleaf.com/read/wxtyyfsfgbxz#613f70)
 
 ---
 
